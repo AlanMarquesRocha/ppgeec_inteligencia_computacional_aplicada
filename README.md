@@ -24,9 +24,9 @@ Ao todo foram realizados 03 (três) projetos ao longo da disciplina, conforme ap
 
 | Projeto | Descrição | Link |
 | --- | --- | --- |
-| 1º projeto | Implementação de RNA-MLP e RBF para Análise de Sucesso Acadêmico| [Atualizando...](Link)
-| 2º projeto | Rede Neural Convolucional para Classificação de Imagens | [Atualizando...](Link)
-| Projeto Final | Classificação de Defeitos em Células de Módulos Fotovoltaicos | [Atualizando...](Link)
+| 1º projeto | Implementação de RNA-MLP e RBF para Análise de Sucesso Acadêmico| [Link para acesso](https://github.com/AlanMarquesRocha/ppgeec_inteligencia_computacional_aplicada/tree/master/t01_ica_rna_mlp_rbf)
+| 2º projeto | Rede Neural Convolucional para Classificação de Imagens | [Link para acesso](https://github.com/AlanMarquesRocha/ppgeec_inteligencia_computacional_aplicada/tree/master/t02_ica_cnn)
+| Projeto Final | Classificação de Defeitos em Células de Módulos Fotovoltaicos | [Link para acesso](https://github.com/AlanMarquesRocha/ppgeec_inteligencia_computacional_aplicada/tree/master/t03_ica_final_project)
 
 <br>
 
