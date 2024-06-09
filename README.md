@@ -18,7 +18,7 @@ Disciplina: Inteligência Computacional Aplicada (ICA) (BBP1026) - 2022.2 </h3>
 
 <br>
 
-Neste repositório atualizado, encontram-se os códigos implementados em cada projeto realizado na disciplina de ICA. Além disso, todos os códigos foram atualizados e melhorados. <br>
+Neste repositório, encontram-se os códigos implementados em cada projeto realizado na disciplina de ICA. Além disso, todos os códigos foram atualizados e melhorados. <br>
 
 Ao todo foram realizados 03 (três) projetos ao longo da disciplina, conforme apresentado na Tabela a seguir:
 
